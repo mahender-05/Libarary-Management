@@ -1,0 +1,22 @@
+body{
+	border : 50px ;
+	background:url("https://www.skoolbeep.com/blog/wp-content/uploads/2020/12/WHAT-IS-THE-PURPOSE-OF-A-LIBRARY-MANAGEMENT-SYSTEM-min.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+p{
+color: blue;
+	font-size: 20px;
+
+}
+div{
+	border: 5px solid yellow;
+	background-color:lightgreen;
+	font-size: 23px;
+	font-style: italic;
+	font-weight: bold;
+	color: blue;
+	text-align: center;
+}
+

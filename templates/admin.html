@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Welcome to Admin Page</title>
+	<style>
+	body{
+		background-color: cyan;
+	}
+</style>
+</head>
+<body>
+	<center><h1>Hello,Admin</h1>
+		<h2> Welcome to Library Management System</h2>
+		<hr>
+		<h3>You can access various features after Login/SingUp</h3>
+		<h3>New user?<a class="p-2 link-secondary" href="{% url 'adminsignup' %}">SignUp</a></h3>
+		<h3>Existing user?<a class="p-2 link-secondary" href="{% url 'login' %}">SignIn</a></h3>
+
+		</center>
+
+</body>
+</html>
